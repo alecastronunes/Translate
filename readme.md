@@ -1,5 +1,5 @@
 
-<h1 align="left">Tradutor</h1>
+<h1 align="center">Tradutor</h1>
 
 <p align="left">Este projeto é um clone do Google Translate. A aplicação foi criada com foco em treinar minhas habilidades em consumir API. Ao digitar ou colar um texto e clicar no botão "Traduzir Texto", é feito uma requisição à API do Google Translate para que a tradução seja realizada.</p>
 
